@@ -6,6 +6,7 @@
 
 > Description the project.
 
+This project, covers the basics of setting up html and css files for a project; and how to ignore files using .gitignore
 
 ## Built With
 
@@ -25,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 - Clone the repository, then cd into the root directory, look for index.html
-right click on it, then copy the link path, paste it on your browser, and you are good to go.
+and right click on it, then copy the link path, paste it on your browser, and you are good to go.
 
 
 ## Authors
